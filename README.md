@@ -45,7 +45,9 @@ The current recommendations for mananging the event is to create the following:
 * Volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
 * Volunteer experience form (Google Forms)
 
-The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.
+The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.  
+
+> An existing organiser can give you deligated access to the gmail account and shared access to the twitter acount via tweetdeck.
 
 # Promoting the event
 
