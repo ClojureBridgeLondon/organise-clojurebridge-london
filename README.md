@@ -52,7 +52,7 @@ The organising team should have access to the ClojureBridge London email and [tw
 # Promoting the event
 
 Women in Tech communities in London / UK
-* [Women who Code meetup](http://www.meetup.com/Women-Who-Code-London/), [twitter](https://twitter.com/WWCLondon) and [website](https://www.womenwhocode.com/london)
+* [Women who Code meetup](http://www.meetup.com/Women-Who-Code-London/), [twitter](https://twitter.com/WWCLondon) and [website](https://www.womenwhocode.com/london). Get event added to their weekly newsletter.
 * [Code First Girls](http://www.codefirstgirls.org.uk/)
 * [Mums in Technoloyg](http://www.meetup.com/Mums-in-Technology-child-friendly-coding-school/) - child friendly events
 
