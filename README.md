@@ -37,6 +37,14 @@ Contact previous ClojureBridge London organisers via email for sponsor contacts.
 
 # Managing the event
 
+Managing the event is made much easier by using a few simple tools.  
+
+We currently recommend using Meetup.com as this is where the majority of people find our community.  
+
+We encorage voluteers & students to share their programming & clojure experience levels with us via the google forms, to make it easier to group teachers with students.  The student experience google form has a question to confirm gender identification, our main way to ensure we are creating a suitable working space for students.
+
+## Registration tools & experience capturing forms
+
 The current recommendations for mananging the event is to create the following:
 
 * Create ClojureBridge London event - [example issue on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues/38) 
@@ -45,9 +53,16 @@ The current recommendations for mananging the event is to create the following:
 * Volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
 * [Volunteer experience form (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform)
 
+## ClojureBridge London Website
+
 Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
 
-The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.  
+
+## Chat, Email and Twitter
+
+[ClojureBridgeLondon/chat](https://gitter.im/ClojureBridgeLondon/chat) is a chat room that anyone with a github account can join and post questions. 
+
+The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.  Please send all email communications from this account (or cc the email address) so we can track communications (avoid duplication, better manage any issues).
 
 > An existing organiser can give you deligated access to the gmail account and shared access to the twitter acount via tweetdeck.
 
