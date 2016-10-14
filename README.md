@@ -100,6 +100,9 @@ Internal channels:
 
 A teacher training evening should be run approximately two weeks before the event, to ensure the teachers and assistants have enough time to prepare and are fully aware of their obligations.
 
+This event covers the code of conduct, default development tool use, review of the curriculum and the [ClojureBridge Teaching Guide](https://github.com/ClojureBridge/curriculum/blob/gh-pages/TEACHING.md)
+
+
 # ClojureBridge Event
 
 The event is comprised of an Install party on the Friday evening and the Workshop all day Saturday (see the example meetup.com events for suggested timings)
