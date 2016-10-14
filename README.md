@@ -43,7 +43,7 @@ The current recommendations for mananging the event is to create the following:
 * Student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
 * [Student experience form (Google Form)](https://bit.ly/clojurebridgelondon-signup)
 * Volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
-* Volunteer experience form (Google Forms)
+* [Volunteer experience form (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform)
 
 The organising team should have access to the ClojureBridge London email and [twitter](https://twitter.com/ClojureBridgeLN) accounts, email "clojurebridge dot london at gmail dot com" for access.  
 
