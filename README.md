@@ -57,6 +57,8 @@ The current recommendations for mananging the event is to create the following:
 
 Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
 
+> ClojureBridge Berlin are a permenant sponsor for the event, thanks to there huge contribution to the content and website design.
+
 
 ## Chat, Email and Twitter
 
