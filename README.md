@@ -11,7 +11,7 @@ There should be 2-4 people involved in organising a ClojureBridge London event, 
 Select a suitable venue and a host (person who works at the venue).  The host should preferably be one of the organisers.
 
 A suitable venue should include:
-
+* space for at least 30 people, preferably 50 (ie. 35 students, 15 volunteers)
 * a good WiFi network
 * a large screen / projector for opening presentations
 * tables, chairs & external monitor (24 inch or larger) for each group
