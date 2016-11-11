@@ -98,9 +98,11 @@ Internal channels:
 
 # Teacher Training
 
-A teacher training evening should be run approximately two weeks before the event, to ensure the teachers and assistants have enough time to prepare and are fully aware of their obligations.
+A teacher training evening should be run approximately two to three weeks before the event, to ensure the teachers and assistants have enough time to prepare and are fully aware of their obligations.
 
-This event covers the code of conduct, default development tool use, review of the curriculum and the [ClojureBridge Teaching Guide](https://github.com/ClojureBridge/curriculum/blob/gh-pages/TEACHING.md)
+You will need a volunteer to lead the training session and go through the [ClojureBridge London Volunteer presentation](https://docs.google.com/presentation/d/1YjqllOqaGvyAPfKBaRbNfotXBaXpqa5_wSy62VhPM7I/pub?start=false&loop=false&delayms=3000).  This event covers the code of conduct, default development tool use, review of the curriculum.  It is important for all volunteers to attend.
+
+Additional resources include the [ClojureBridge Teaching Guide](https://github.com/ClojureBridge/curriculum/blob/gh-pages/TEACHING.md)
 
 
 # ClojureBridge Event
