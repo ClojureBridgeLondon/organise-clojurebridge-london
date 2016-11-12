@@ -6,6 +6,19 @@ An overview of the steps required to run a ClojureBridge London Event, helping y
 
 There should be 2-4 people involved in organising a ClojureBridge London event, to help spread the work around.  Clojurebridge.org recommends you join their [organising mailing list](https://groups.google.com/forum/#!forum/clojurebridge-workshops)
 
+# Roles to assign
+
+You will need someone to take responsibility for the following roles.  A person can take on more than one role, however each role does require an amount of work.
+
+* Organiser - runs the overal event and makes sure everything happens.  They are also the public face of the event, so this person should preferably represent the community you are trying to reach.
+* Host - ensures access to the venue and provides all the services
+* Sponsor - provides some or all of the financial support
+* Teacher Trainer - teaches the teachers & assistants about the event and manages consensus of how the event will work on the day.
+* Teachers - leads a group of students during the workshop, helps with install party
+* Assistants - supports the teacher during the workshop, helps with install party 
+
+Optionally you can have someone who promotes the event, however it may be that everyone pitches in.  Its best to co-ordinate promoting the event, so you inform any specific communities you are trying to reach first.
+
 # Venue & Host 
 
 Select a suitable venue and a host (person who works at the venue).  The host should preferably be one of the organisers.
