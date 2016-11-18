@@ -36,6 +36,18 @@ A suitable venue should include:
 
 Establish the budget for the event (contact previous organisers for sample budgets)
 
+# Catering
+
+Food and drink is typically provided for the following parts of ClojureBridge London
+
+* Teacher Training session (pizza, mini-burritos, etc)
+* Friday night Instal Party (curry, chinese, etc - something nicer than pizza)
+* Saturday Breakfast 
+* Saturday Lunch
+* Saturday Afternoon - clojurebridge cookies or cupcakes (http://www.crumbsanddoilies.co.uk/) 
+
+Provide mainly (or exclusively) soft drinks for these events.  Suggest small amounts of alchol for the teacher training (beer & wine) and Friday install party (wine and some beer).
+
 # Sponsorship
 
 Sponsors for the event can provide additional funds to cover the budget or provide content or services that support or complement the event.
