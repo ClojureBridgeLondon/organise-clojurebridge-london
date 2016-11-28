@@ -114,6 +114,7 @@ Other Women focused communities
 * [Women of Silicon Roundabout](http://www.women-in-technology.com/)
 * [Mums in Technology (startups)](http://mumsintechnology.co.uk/) & [twitter](https://twitter.com/MumsinTech}
 * [Tech Mums](http://techmums.co/)
+* [Circle Co](https://twitter.com/circleco_)
 
 Internal channels:
 * ClojureBridge London Website
