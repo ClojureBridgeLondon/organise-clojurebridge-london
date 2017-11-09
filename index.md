@@ -40,11 +40,12 @@ A suitable venue should include:
 
 Typically, a ClojureBridge event can be catered for up to 50 people for £1,000, or conservatively with a budget of £750, broken down as follows:
 
-* Friday & Saturday snacks & drinks such as crisps, fruit, small amounts of beer, wine: £130
+* Friday & Saturday snacks & drinks such as crisps, fruit, small amounts of beer, wine: £150
 * Friday install party dinner such as pizza, mini burritos etc.: £200-250
 * Saturday breakfast such as bagels, porridge, fruit etc. & coffee: £150
-* Saturday lunch such as bento boxes, hummus bowls, salads etc.: £275
+* Saturday lunch such as bento boxes, hummus bowls, salads etc.: £250
 * Saturday afternoon ClojureBridge branded cookies or cupcakes such as [crumbs and doilies](http://www.crumbsanddoilies.co.uk/): £75-100
+* Optional Saturday post-workshop social bar tab: £200-500
 
 This doesn't include venue or additional costs, so adjust your budget accordingly and contact previous organisers for more info.
 
@@ -53,14 +54,13 @@ This doesn't include venue or additional costs, so adjust your budget accordingl
 Sponsors for the event can provide additional funds to cover the budget or provide content or services that support or complement the event.
 
 Previous sponsors include:
+* Signal Media
 * uSwitch 
 * ThoughtWorks
 * Style.com
 * GDS
 
- > ClojureBridge Berlin are a permanent sponsor for the event, thanks to their huge contribution to the content and website design.
- 
-Contact previous ClojureBridge London organisers via email for sponsor contacts.
+Contact previous ClojureBridge London organisers via email or "clojurebridge dot london at gmail dot com" for sponsor contacts.
 
 # Managing the event
 
@@ -68,9 +68,9 @@ Managing the event is made much easier by using a few simple tools. The current 
 
 * Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
 * Create a ClojureBridge London issue in the ClojureBridge repo - [example issues on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues) 
-* Create a new student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
+* Create (or copy) a new student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
 * Create (or reopen) a [student experience form (Google Form)](https://bit.ly/clojurebridgelondon-signup)
-* Create a new volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
+* Create (or copy) a new volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
 * Create (or reopen) a [volunteer experience form (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSdTOdF_26z0lh-yHJDSc8tjFd_CoVpTdvb-4MMg7n44EIC4dQ/viewform)
 
 Contact "clojurebridge dot london at gmail dot com" for access to these accounts.
