@@ -17,9 +17,9 @@ At every ClojureBridge workshop someone needs to take responsibility for each of
 * Organiser - runs the overall event and makes sure everything happens.  They are also the public face of the event, so this person should preferably represent the community you are trying to reach. Organisers should take a look at the [organising timeline](https://github.com/ClojureBridge/organizing/blob/master/Workshop-Planning-Timeline.md) and an example [organising Trello board can be found here](https://trello.com/b/VDKueBHg/clojurebridge-london-example-organising-board).
 * Host - ensures access to the venue and provides all the services
 * Sponsor - provides some or all of the financial support
-* Teacher Trainer - teaches the teachers & assistants about the event and manages consensus of how the event will work on the day.
-* Teachers - leads a group of students during the workshop, helps with install party
-* Assistants - supports the teacher during the workshop, helps with install party 
+* Coach Trainer - teaches the coaches & assistants about the event and manages consensus of how the event will work on the day.
+* Coach - leads a group of students during the workshop, helps with install party
+* Assistants - supports the coach during the workshop, helps with install party 
 
 Optionally you can have someone who promotes the event; however, it may be that everyone pitches in.  It's best to co-ordinate promoting the event, so you inform any specific communities you are trying to reach first.
 
@@ -28,13 +28,13 @@ Optionally you can have someone who promotes the event; however, it may be that 
 Select a suitable venue and a host (person who works at the venue).  The host should preferably be one of the organisers.
 
 A suitable venue should include:
+* disabled access
 * space for at least 30 people, preferably 50 (ie. 35 students, 15 volunteers)
 * a good WiFi network
 * a large screen / projector for opening presentations
 * tables, chairs & external monitor (24 inch or larger) for each group
 * space for breakfast / lunch
 * female hygiene products available
-* disabled access
 
 # Budget
 
@@ -46,6 +46,7 @@ Typically, a ClojureBridge event can be catered for up to 50 people for £1,000,
 * Saturday lunch such as bento boxes, hummus bowls, salads etc.: £250
 * Saturday afternoon ClojureBridge branded cookies or cupcakes such as [crumbs and doilies](http://www.crumbsanddoilies.co.uk/): £75-100
 * Optional Saturday post-workshop social bar tab: £200-500
+* Optional speaker honorarium, typically Amazon voucher or similar: £30-50 per speaker
 
 This doesn't include venue or additional costs, so adjust your budget accordingly and contact [previous organisers](https://github.com/orgs/ClojureBridgeLondon/people) for more info.
 
