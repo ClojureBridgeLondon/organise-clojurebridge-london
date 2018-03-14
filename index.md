@@ -54,6 +54,8 @@ This doesn't include venue or additional costs, so adjust your budget accordingl
 Sponsors for the event can provide additional funds to cover the budget or provide content or services that support or complement the event.
 
 Previous sponsors & hosts include:
+* Entrepreneur First
+* 8th Light
 * Skills Matter (Code Node)
 * Signal Media
 * uSwitch 
