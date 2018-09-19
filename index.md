@@ -40,13 +40,17 @@ A suitable venue should include:
 
 Typically, a ClojureBridge event can be catered for up to 50 people for £1,000, or conservatively with a budget of £750, broken down as follows:
 
+* Volunteer training food & drinks: £150
 * Friday & Saturday snacks & drinks such as crisps, fruit, small amounts of beer, wine: £150
 * Friday install party dinner such as pizza, mini burritos etc.: £200-250
 * Saturday breakfast such as bagels, porridge, fruit etc. & coffee: £150
 * Saturday lunch such as bento boxes, hummus bowls, salads etc.: £250
 * Saturday afternoon ClojureBridge branded cookies or cupcakes such as [crumbs and doilies](http://www.crumbsanddoilies.co.uk/): £75-100
+* Inclusivity adjustments for those who need them (eg. childcare, live and/or closed captioning for videos, limited support with travel)
 * Optional Saturday post-workshop social bar tab: £200-500
 * Optional speaker honorarium, typically Amazon voucher or similar: £30-50 per speaker
+
+Due to the likelihood of a few last minute dropouts, it's advisable to order food from a caterer that allows for last minute adjustments without charge, to avoid wastage.
 
 This doesn't include venue or additional costs, so adjust your budget accordingly and contact [previous organisers](https://github.com/orgs/ClojureBridgeLondon/people) for more info.
 
@@ -55,6 +59,7 @@ This doesn't include venue or additional costs, so adjust your budget accordingl
 Sponsors for the event can provide additional funds to cover the budget or provide content or services that support or complement the event.
 
 Previous sponsors & hosts include:
+* Funding Circle
 * Entrepreneur First
 * 8th Light
 * Skills Matter (Code Node)
