@@ -17,7 +17,7 @@ At every ClojureBridge workshop someone needs to take responsibility for each of
 * Organiser - runs the overall event and makes sure everything happens.  They are also the public face of the event, so this person should preferably represent the community you are trying to reach. Organisers should take a look at the [organising timeline](https://github.com/ClojureBridge/organizing/blob/master/Workshop-Planning-Timeline.md) and an example [organising Trello board can be found here](https://trello.com/b/VDKueBHg/clojurebridge-london-example-organising-board).
 * Host - ensures access to the venue and provides all the services
 * Sponsor - provides some or all of the financial support
-* Coach Trainer - teaches the coaches & assistants about the event and manages consensus of how the event will work on the day.
+* Coaches Coach - coaches the coaches about the event, code of conduct and how the event will work on the day.
 * Coach - supports the learning process during the workshop.  Helps install Clojure development tools if the student wishes.
 
 
