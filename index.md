@@ -18,8 +18,8 @@ At every ClojureBridge workshop someone needs to take responsibility for each of
 * Host - ensures access to the venue and provides all the services
 * Sponsor - provides some or all of the financial support
 * Coach Trainer - teaches the coaches & assistants about the event and manages consensus of how the event will work on the day.
-* Coach - leads a group of students during the workshop, helps with install party
-* Assistants - supports the coach during the workshop, helps with install party 
+* Coach - supports the learning process during the workshop.  Helps install Clojure development tools if the student wishes.
+
 
 Optionally you can have someone who promotes the event; however, it may be that everyone pitches in.  It's best to co-ordinate promoting the event, so you inform any specific communities you are trying to reach first.
 
