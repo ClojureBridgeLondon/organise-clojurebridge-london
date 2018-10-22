@@ -29,11 +29,11 @@ Select a suitable venue and a host (person who works at the venue).  The host sh
 
 A suitable venue should include:
 * disabled access
-* space for at least 30 people, preferably 50 (ie. 35 students, 15 volunteers)
+* space for a minimum of 30 people, preferably up to 50 (ie. 25 students, 25 volunteers)
 * a good WiFi network
-* a large screen / projector for opening presentations
-* tables, chairs & external monitor (24 inch or larger) for each group
-* space for breakfast / lunch
+* a large screen / projector for opening presentations (Friday evenings, optionally Saturday)
+* tables, chairs, power sockets for each group
+* separate space for breakfast, lunch and a retrospective 
 * female hygiene products available
 
 # Budget
