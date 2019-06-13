@@ -8,7 +8,7 @@ ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgef
 
 Here is an overview of the steps required to run a ClojureBridge London Event, helping you navigate all the currently available content.  The flow of the event is represented by an Infographic, followed by details of each task.
 
-Further advice is available in the [clojurebridge/organizing](https://github.com/ClojureBridge/organizing) repository, or email the London ClojureBridge team at "clojurebridge dot london at gmail dot com".
+Further advice is available in[#clojurebridge-london channel in the Clojurians Slack community](https://clojurians.slack.com/messages/clojurebridge-london), [ClojureBridge London Twitter account](https://twitter.com/ClojureBridgeLN), or email the London ClojureBridge team at "london at clojurebridge dot org".
 
 ## Infographic
 
