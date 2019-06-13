@@ -2,11 +2,17 @@
 
 ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
 
-Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
+Our existing workshops have focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
 
 ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). [All around the world](http://www.clojurebridge.org/) there have been workshops organised by people like you.
 
-Here is an overview of the steps required to run a ClojureBridge London Event, helping you navigate all the currently available content.  Further advice is available in the [clojurebridge/organizing](https://github.com/ClojureBridge/organizing) repository, or email the London ClojureBridge team at "clojurebridge dot london at gmail dot com".
+Here is an overview of the steps required to run a ClojureBridge London Event, helping you navigate all the currently available content.  The flow of the event is represented by an Infographic, followed by details of each task.
+
+Further advice is available in the [clojurebridge/organizing](https://github.com/ClojureBridge/organizing) repository, or email the London ClojureBridge team at "clojurebridge dot london at gmail dot com".
+
+## Infographic
+
+![Infographic - organise a clojurebridge london event](infographic-run-a-clojurebridge-london-event.png)
 
 # Roles to assign
 
@@ -23,7 +29,7 @@ At every ClojureBridge workshop someone needs to take responsibility for each of
 
 Optionally you can have someone who promotes the event; however, it may be that everyone pitches in.  It's best to co-ordinate promoting the event, so you inform any specific communities you are trying to reach first.
 
-# Venue & Host 
+# Venue & Host
 
 Select a suitable venue and a host (person who works at the venue).  The host should preferably be one of the organisers.
 
@@ -33,7 +39,7 @@ A suitable venue should include:
 * a good WiFi network
 * a large screen / projector for opening presentations (Friday evenings, optionally Saturday)
 * tables, chairs, power sockets for each group
-* separate space for breakfast, lunch and a retrospective 
+* separate space for breakfast, lunch and a retrospective
 * female hygiene products available
 
 # Budget
@@ -64,7 +70,7 @@ Previous sponsors & hosts include:
 * 8th Light
 * Skills Matter (Code Node)
 * Signal Media
-* uSwitch 
+* uSwitch
 * ThoughtWorks
 * Style.com
 * GDS
@@ -76,7 +82,7 @@ Contact previous [ClojureBridge London organisers](https://github.com/orgs/Cloju
 Managing the event is made much easier by using a few simple tools. The current recommendations for managing the event is to do the following:
 
 * Update the [ClojureBridge London website](https://clojurebridgelondon.github.io/) by editing the [index.html](https://github.com/ClojureBridgeLondon/clojurebridgelondon.github.io/blob/master/index.html) file and updating event specific details (date, location, organisers, sponsors, etc.)
-* Create a ClojureBridge London issue in the ClojureBridge repo - [example issues on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues) 
+* Create a ClojureBridge London issue in the ClojureBridge repo - [example issues on clojurebridge/Workshops repository](https://github.com/ClojureBridge/Workshops/issues)
 * Create (or copy) a new student event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/233369825/)
 * Create (or reopen) a [student experience form (Google Form)](https://bit.ly/clojurebridgelondon-signup)
 * Create (or copy) a new volunteer event on Meetup.com - [example event](https://www.meetup.com/London-Clojurians/events/234511179/)
