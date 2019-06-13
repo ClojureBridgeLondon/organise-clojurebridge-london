@@ -1,14 +1,14 @@
 # How to run a ClojureBridge London Event
 
-ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
+[ClojureBridge](http://www.clojurebridge.org/) aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
 
-Our existing workshops have focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
+The [ClojureBridge London](https://clojurebridgelondon.github.io/) workshops have focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
 
-ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). [All around the world](http://www.clojurebridge.org/) there have been workshops organised by people like you.
+ClojureBridge was started in 2014 and is part of [Bridge Foundry](http://bridgefoundry.org/). [All around the world](http://www.clojurebridge.org/) ClojureBridge workshops have been organised by people just like you.
 
-Here is an overview of the steps required to run a ClojureBridge London Event, helping you navigate all the currently available content.  The flow of the event is represented by an Infographic, followed by details of each task.
+Here is an overview of the steps required to run a [ClojureBridge London](https://clojurebridgelondon.github.io/) event.  The flow of the event is represented by an Infographic, followed by details of each task.
 
-Further advice is available in[#clojurebridge-london channel in the Clojurians Slack community](https://clojurians.slack.com/messages/clojurebridge-london), [ClojureBridge London Twitter account](https://twitter.com/ClojureBridgeLN), or email the London ClojureBridge team at "london at clojurebridge dot org".
+Further advice is available in[#clojurebridge-london channel in the Clojurians Slack community](https://clojurians.slack.com/messages/clojurebridge-london), [ClojureBridge London Twitter account](https://twitter.com/ClojureBridgeLN), or email the London ClojureBridge team:  "london at clojurebridge dot org".
 
 ## Infographic
 
